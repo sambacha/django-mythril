@@ -1,0 +1,11 @@
+Django==2.0.13
+djangorestframework==3.9.3
+celery==4.1.0
+SQLAlchemy==1.1.9
+amqp==2.2.2
+mythril==0.22.17
+gunicorn==19.7.1
+dj-database-url==0.4.2
+whitenoise==3.3.1
+psycopg2==2.7.3.2
+django-celery-results==1.0.1
